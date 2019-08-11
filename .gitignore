@@ -1,0 +1,5 @@
+build/
+build_tanks/
+.vscode
+khafile.js
+Sources/Main.hx
